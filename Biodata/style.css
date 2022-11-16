@@ -1,0 +1,11 @@
+body {
+  min-height: 2000 px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: hwb(195 13% 21%);
+}
+
+# Profil {
+  background-color: aquamarine;
+}
